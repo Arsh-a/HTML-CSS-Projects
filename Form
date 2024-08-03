@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourist Home</title>
+    <style>
+    *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(background_img.jpg);
+    background-position: center;
+}
+.form{
+    margin: auto;
+    height: 70vh;
+    width: 50vw;
+    background-color: rgba(16, 199, 168, 0.8);
+    border-radius: 2%;
+    margin-top: 3%;
+    color: #ffffff;
+    padding-left: 10%;
+    padding-top: 2%;
+}
+body h1{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 3%;
+    font-weight: 900;
+}
+.form button{
+    margin-left:30% ;
+    margin-top:3% ;
+    height: 5vh;
+    width: 10vw;
+    border: none;
+    color:#ffffff;
+    background-color: rgb(11, 72, 227);
+}
+.form button:hover{
+    cursor: pointer;
+}
+input,
+select{
+    height: 4vh;
+    width: 20vw;
+    border: 2px solid rgb(59, 247, 251);
+}
+input[type="text"]{
+    margin-left: 18%;
+}
+
+input[type="email"]{
+    margin-left: 19%;
+}
+
+input[type="time"]{
+    margin-left: 19%;
+}
+#depdate{
+    margin-left: 5%;
+}
+#arrivaldate{
+    margin-left: 9.5%;
+}
+#room{
+    margin-left: 6%;
+}
+
+svg{
+    height: 5dvh;
+    width: 5vw;
+}
+    </style>
+</head>
+
+<body>
+    <h1>TOURISTS RESERVATION FORM</h1>
+    <div class="form">
+        <form action="">
+
+
+            <label for="name">NAME :</label>
+            <input type="text" name="" id="name">
+
+            <br>
+            <br>
+
+            <label for="mail">MAIL :</label>
+            <input type="email" name="" id="mail">
+            <br>
+            <br>
+            <label for="arrival date">ARRIVAL DATE</label>
+            <input type="date" name="" id="arrivaldate">
+
+            <br>
+            <br>
+
+            <label for="time">TIME : </label>
+            <input type="time" name="" id="time">
+            <br>
+            <br>
+            <label for="arrival date">DEPARTURE DATE : </label>
+            <input type="date" name="" id="depdate">
+
+            <br>
+            <br>
+
+            <label for="time">TIME :</label>
+            <input type="time" name="" id="time">
+            <br>
+            <br>
+            <label for="room">CHOOSE A ROOM :</label>
+            <select name="" id="room">
+                <option value="">choose a room</option>
+                <option value="standard-room">Standard Room</option>
+                <option value="deluxe-room">Deluxe Room</option>
+                <option value="superior-room">Superior Room</option>
+                <option value="family-room">Family Room</option>
+                <option value="suite">Suite</option>
+                <option value="junior-suite">Junior Suite</option>
+                <option value="presidential-suite">Presidential Suite</option>
+                <option value="executive-room">Executive Room</option>
+                <option value="ocean-view-room">Ocean View Room</option>
+                <option value="garden-view-room">Garden View Room</option>
+                <option value="poolside-room">Poolside Room</option>
+                <option value="villa">Villa</option>
+                <option value="bungalow">Bungalow</option>
+                <option value="cabin">Cabin</option>
+                <option value="penthouse">Penthouse</option>
+            </select>
+            <br>
+            <br>
+            <label for="people">SELECT NO OF PEOPLE :</label>
+            <select name="" id="people">
+                <option value="">Choose number of people</option>
+                <option value="1">1 person</option>
+                <option value="2">2 people</option>
+                <option value="3">3 people</option>
+                <option value="4">4 people</option>
+                <option value="5">5 people</option>
+                <option value="6">6 people</option>
+                <option value="7">7 people</option>
+                <option value="8">8 people</option>
+                <option value="9">9 people</option>
+                <option value="10">10 people</option>
+            </select>
+            <br><br>
+            <button type="submit">Make a Reservation</button>
+        </form>
+    </div>
+</body>
+
+</html>
