@@ -1,0 +1,189 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sir Isaac Newton</title>
+    <style>
+      *{
+    margin:0;
+    padding:0;
+}
+nav{
+    text-align: right;
+    height: 5vh;
+    width: 100%;
+    padding-top: 3vh;
+    background-color:#ffffff;
+}
+nav a{
+    text-decoration: none;
+    color:  #000000;
+    margin-top: 2vh;
+    margin: 2vw;
+}
+.heading{
+    height: 100vh;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+}
+.heading img{
+    float: left;
+    height:100%;
+    width:45%;
+ 
+
+}
+.heading h1{
+    text-align: center;
+    padding-top: 15%;
+    font-size: 80px;
+}
+.heading p{
+    text-align: center;
+    padding-left: 15%;
+}
+
+#about,
+#life{
+    height: 80vh;
+    width: 98%;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 1%;
+    text-align: justify;
+}
+#about h1, #contributions h1, #life h1{
+    font-size: 30px;
+    text-decoration: underline;
+}
+#about p, #contributions p, #life p{
+    margin-top: 2%;
+}
+
+#contributions{
+    height: 200vh;
+    width: 98%;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 1%;
+    text-align: justify;
+}
+.contributions{
+    height: 30%;
+}
+
+#contributions .contributions:first-of-type img {
+    margin-right:3%;
+}
+
+.contributions:nth-of-type(2) img {
+    margin-left:3%;
+}
+
+.contributions:nth-of-type(3) img {
+    margin-right:3%;
+}
+
+
+#contributions .contributions:first-of-type img {
+    margin-right:3%;
+}
+#contributions .contributions:first-of-type p,
+.contributions:nth-of-type(2) p,
+.contributions:nth-of-type(3) p {
+    padding-top:3%;
+}
+#contributions img{
+    height: 50vh;
+    width: 30vw;
+    border: 5px double #ffffff;
+    border-radius: 2%;
+    margin-top: 2%;
+
+}
+
+ #first_img{
+    float: left;
+}
+#second_img{
+    float: right;
+}
+#third_img{
+    float: left;
+}
+#more{
+    height: 50vh;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 2%;
+    line-height: 5vh;
+}
+ul::marker{
+    color: white;
+}
+
+
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="#about">ABOUT</a>
+        <a href="#contributions">CONTRIBUTIONS</a>
+        <a href="#life">EARLY LIFE</a>
+        <a href="#more">MORE</a>
+    </nav>
+
+
+    <section class="heading">
+        <img src="https://www.myartprints.com/kunst/anonym/Isaac-Newton.jpg" alt="Sir Isaac-Newton">
+        <h1>Sir Isaac Newton</h1>
+        <p>Lorem ipsum dolor sit amet. Lorem, ipsum.
+        </p>
+    </section>
+
+
+    <section id="about">
+        <h1>ABOUT</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa aliquam illo sequi libero minus laboriosam? Expedita at dolores itaque nulla facere quos recusandae dolorem odio similique sequi. Molestiae, velit eaque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos ullam quidem adipisci perferendis architecto. Repellat odio vel laudantium quisquam commodi, molestiae et, fuga expedita deleniti distinctio quaerat praesentium facilis dignissimos! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, pariatur magni libero quae dolor, deserunt mollitia vero earum laborum, itaque accusantium placeat dignissimos ab asperiores cum. Commodi, quia similique. Doloremque. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas optio quibusdam aliquam distinctio assumenda minima cumque, accusantium modi inventore nesciunt quis at exercitationem fugit. Voluptates laudantium voluptate nulla ipsam assumenda, omnis culpa ipsum! Tempore, vitae. Consectetur nostrum itaque harum nobis deleniti ad iure, earum explicabo eius, possimus dolorem, animi repellendus. Reiciendis, asperiores explicabo ipsa fugit provident earum deleniti facere aspernatur aperiam amet qui placeat doloribus magnam eius vitae laborum quaerat, nihil culpa. Amet vitae repudiandae illo quisquam earum ratione iure laudantium. Repudiandae quod placeat voluptate necessitatibus quasi quisquam qui, numquam nobis nemo facilis dignissimos quam a, incidunt adipisci, rem iure.</p>
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id labore unde quaerat consequuntur obcaecati laborum voluptatibus. Quia minus omnis velit exercitationem provident nobis, ab nemo harum autem ducimus impedit explicabo labore commodi iusto eos inventore recusandae quam molestiae, facilis vero perferendis non cum necessitatibus nostrum! Deleniti ullam facilis, dolorem, similique vitae maxime esse doloremque eaque voluptatibus non totam officia, facere molestias iste! Earum fugiat veritatis nihil quasi aliquid distinctio minus error quibusdam suscipit, porro aliquam nemo aperiam perspiciatis eligendi eius maiores, consequuntur iure dolore corrupti dicta magni consectetur ullam! Fugit, quidem. Amet porro nostrum perspiciatis ex nobis esse, necessitatibus veniam, eligendi architecto voluptatum possimus, accusantium quasi vel. Nam deleniti illum nemo voluptates fugiat porro tempora perspiciatis voluptate dolorum, eos dolor et voluptas architecto est tenetur accusantium eum. Delectus inventore aspernatur quam ipsum veniam tempora architecto facere, accusantium ab autem a cupiditate ea iste ducimus nulla ratione similique soluta id impedit laudantium, numquam praesentium voluptates. Omnis molestiae eaque minus ratione quas animi blanditiis. Sunt quisquam laboriosam soluta facere accusamus dolorum, harum, nihil error eligendi commodi molestias modi explicabo magni deserunt rerum porro doloribus exercitationem animi aperiam impedit alias ea pariatur placeat. Libero, eaque. Iusto hic id quod et consequuntur sunt totam rem, adipisci excepturi minima illum eos ipsa voluptatum suscipit omnis. Aut quasi ipsum aspernatur facilis, et dolorum alias itaque accusantium officiis tenetur. Harum asperiores recusandae expedita officiis tempore cum eligendi est saepe labore ullam, deleniti iste mollitia ea, illo dolor soluta incidunt nemo excepturi, aut ipsam repudiandae sunt sit! Rerum molestias totam earum provident eligendi, dolorum voluptas aliquid, nobis, libero odit Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt dicta nobis aliquid tempora minus laudantium quia eligendi odio voluptate vero, laboriosam rerum sunt! Dolores quae unde soluta odit, at eaque, dolorum molestias, eveniet quisquam autem ipsum cumque? Non ullam, pariatur doloremque facilis vero commodi id aspernatur porro reprehenderit vitae illum?</p>
+    </section>
+
+    <section id="contributions">
+        <h1>CONTRIBUTIONS</h1>
+        <div class="contributions">
+            <img src="https://cdn.mos.cms.futurecdn.net/QFoGyNp7x2czTFqDUJYoeJ-320-80.jpg" alt="" id="first_img">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa aliquam illo sequi libero minus laboriosam? Expedita at dolores itaque nulla facere quos recusandae dolorem odio similique sequi. Molestiae, velit eaque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos ullam quidem adipisci perferendis architecto. Repellat odio vel laudantium quisquam commodi, molestiae et, fuga expedita deleniti distinctio quaerat praesentium facilis dignissimos! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, pariatur magni libero quae dolor, deserunt mollitia vero earum laborum, itaque accusantium placeat dignissimos ab asperiores cum. Commodi, quia similique. Doloremque. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas optio quibusdam aliquam distinctio assumenda minima cumque, accusantium modi inventore nesciunt quis at exercitationem fugit. Voluptates laudantium voluptate nulla ipsam assumenda, omnis culpa ipsum! Tempore, vitae. Consectetur nostrum itaque harum nobis deleniti ad iure, earum explicabo eius, possimus dolorem, animi repellendus. Reiciendis, asperiores explicabo ipsa fugit provident earum deleniti facere aspernatur aperiam amet qui placeat doloribus magnam eius vitae laborum quaerat, nihil culpa. Amet vitae repudiandae illo quisquam earum ratione iure laudantium. Repudiandae quod placeat voluptate necessitatibus quasi quisquam qui, numquam nobis nemo facilis dignissimos quam a, incidunt adipisci, rem iure.</p>
+        </div>
+        <div class="contributions">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjIUlHCMLz6UMafvQRRNlqbRZSUvY8FLtDA&s" alt="" id="second_img">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa aliquam illo sequi libero minus laboriosam? Expedita at dolores itaque nulla facere quos recusandae dolorem odio similique sequi. Molestiae, velit eaque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos ullam quidem adipisci perferendis architecto. Repellat odio vel laudantium quisquam commodi, molestiae et, fuga expedita deleniti distinctio quaerat praesentium facilis dignissimos! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, pariatur magni libero quae dolor, deserunt mollitia vero earum laborum, itaque accusantium placeat dignissimos ab asperiores cum. Commodi, quia similique. Doloremque. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas optio quibusdam aliquam distinctio assumenda minima cumque, accusantium modi inventore nesciunt quis at exercitationem fugit. Voluptates laudantium voluptate nulla ipsam assumenda, omnis culpa ipsum! Tempore, vitae. Consectetur nostrum itaque harum nobis deleniti ad iure, earum explicabo eius, possimus dolorem, animi repellendus. Reiciendis, asperiores explicabo ipsa fugit provident earum deleniti facere aspernatur aperiam amet qui placeat doloribus magnam eius vitae laborum quaerat, nihil culpa. Amet vitae repudiandae illo quisquam earum ratione iure laudantium. Repudiandae quod placeat voluptate necessitatibus quasi quisquam qui, numquam nobis nemo facilis dignissimos quam a, incidunt adipisci, rem iure.</p>
+        </div>
+        <div class="contributions">
+            <img src="https://media.licdn.com/dms/image/D4D12AQFLOWUeYelpHg/article-cover_image-shrink_720_1280/0/1685450685226?e=2147483647&v=beta&t=-aTcXLhqyqYsFXNHvYkoceJy8JjH2YY5jgcvk2VtgNY" alt="" id="third_img">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa aliquam illo sequi libero minus laboriosam? Expedita at dolores itaque nulla facere quos recusandae dolorem odio similique sequi. Molestiae, velit eaque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos ullam quidem adipisci perferendis architecto. Repellat odio vel laudantium quisquam commodi, molestiae et, fuga expedita deleniti distinctio quaerat praesentium facilis dignissimos! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, pariatur magni libero quae dolor, deserunt mollitia vero earum laborum, itaque accusantium placeat dignissimos ab asperiores cum. Commodi, quia similique. Doloremque. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas optio quibusdam aliquam distinctio assumenda minima cumque, accusantium modi inventore nesciunt quis at exercitationem fugit. Voluptates laudantium voluptate nulla ipsam assumenda, omnis culpa ipsum! Tempore, vitae. Consectetur nostrum itaque harum nobis deleniti ad iure, earum explicabo eius, possimus dolorem, animi repellendus. Reiciendis, asperiores explicabo ipsa fugit provident earum deleniti facere aspernatur aperiam amet qui placeat doloribus magnam eius vitae laborum quaerat, nihil culpa. Amet vitae repudiandae illo quisquam earum ratione iure laudantium. Repudiandae quod placeat voluptate necessitatibus quasi quisquam qui, numquam nobis nemo facilis dignissimos quam a, incidunt adipisci, rem iure.</p>
+
+        </div>
+        
+    </section>
+
+    <section id="life">
+        <h1>EARLY LIFE</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quae iure suscipit voluptate explicabo voluptatum, in neque esse architecto molestias laborum exercitationem voluptas? Voluptate minus excepturi assumenda fugit eum animi, eveniet tempora. Repellat molestias quia quasi doloremque quibusdam natus. Error tenetur tempore quod incidunt facilis! Sequi voluptatem cumque ut odit autem blanditiis, maiores hic, ipsam dolor est dignissimos. Dicta voluptatibus magni ullam voluptatum debitis obcaecati quibusdam natus, quia vitae, repellendus cupiditate! Omnis culpa et aspernatur voluptatibus odit dignissimos vel nam, eum dolorem quas possimus rem repellendus illo. Iusto blanditiis perferendis quos nam quod laboriosam sit asperiores, laborum impedit praesentium dignissimos dolores aut beatae. Consequatur iste optio rem amet! Dignissimos ad, velit earum quisquam consectetur esse eos perspiciatis nihil, expedita mollitia veritatis nisi magnam! Quae ullam officia nobis minima cumque voluptate non. Quas voluptates delectus illum quisquam? Beatae doloribus ducimus dolore cum dicta quisquam sint reiciendis facere fuga repellat nemo earum architecto numquam aliquid quasi, at corporis alias! Ad velit, itaque illo unde deleniti eligendi esse iste perspiciatis, architecto eum ipsam doloremque quam at. Nisi voluptatibus suscipit earum fugiat. Quod dolor blanditiis distinctio quo quos in vitae, labore eligendi, maiores iusto quam quaerat recusandae esse voluptas? Quos doloremque commodi reprehenderit magni quidem quaerat porro deleniti fugit earum ullam? Debitis commodi voluptatum repellat corrupti fugiat cupiditate facere minima dolore non quaerat, rem vitae alias dicta in necessitatibus! Beatae suscipit error impedit, quod commodi explicabo dicta officia repellat saepe vel, similique doloribus vitae mollitia porro voluptas quo laboriosam placeat quos eius. Quibusdam, deleniti ab ipsum necessitatibus saepe exercitationem esse? Mollitia quasi laudantium accusantium laborum soluta tenetur illo quidem eos, asperiores nam, ullam, autem dicta dolor nisi sequi aperiam reiciendis tempora doloremque? Accusamus ullam ut soluta eaque eligendi enim, incidunt, exercitationem maxime iure aliquam nostrum. Voluptatibus eaque repellendus quam quos eligendi ipsa iure quidem dignissimos saepe modi minima, maxime deserunt amet fuga harum ipsum consectetur iusto non eos iste cumque inventore aperiam ut? Eligendi distinctio, accusantium unde iste neque repudiandae repellendus perferendis amet officia corrupti, reprehenderit dicta eum aliquam, inventore soluta modi natus perspiciatis et nesciunt accusamus aliquid minima quo omnis? Quibusdam omnis voluptates quaerat corporis laboriosam eum, accusamus numquam, assumenda nam cumque maiores molestiae vel accusantium iure porro quas rerum perferendis ducimus minus quam nostrum? Quo, voluptates omnis expedita minus, sunt corporis non ab, distinctio fugiat voluptatum aut quae alias reprehenderit quasi obcaecati quaerat iusto id ducimus eum! Consectetur dolor placeat nulla accusamus minima quae quo, illum ipsam dignissimos incidunt iure vitae minus non. Laborum possimus rem, provident, tempore deserunt nisi incidunt quidem nemo blanditiis modi ab veniam minus earum, neque sequi laboriosam ut eos. Soluta fugit quae quaerat amet nemo. Praesentium dolorum voluptas magni sed cupiditate pariatur ratione eius veniam ad. Tempora rem dignissimos distinctio at possimus fuga provident pariatur reiciendis vel praesentium animi, aspernatur iusto, cumque sunt ut a reprehenderit illum velit ab? Nesciunt esse ea voluptates voluptatem quasi repellendus sit omnis delectus, qui nulla molestias? Reprehenderit dignissimos nemo rerum, necessitatibus repudiandae illum quae minima ipsum nisi aspernatur earum labore non!</p>
+    </section>
+
+    <footer id="more">
+        <ul>
+            <li>Lorem, ipsum dolor.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum dolor sit.</li>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <li>Lorem ipsum, dolor sit amet consectetur adipisicing.</li>
+        </ul>
+    </footer>
+</body>
+</html>
